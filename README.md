@@ -4,8 +4,8 @@
 - 🙂 Pronouns: ele/dele
 
 <div> 
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitinBF&layout=compact&theme=dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=VitinBF&show_icons=true&theme=dark"/>
+  <img width = "430cm" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitinBF&layout=compact&theme=dark"/>
+  <img width = "450cm" height="170cm" src="https://github-readme-stats.vercel.app/api?username=VitinBF&show_icons=true&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
